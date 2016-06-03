@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -18,3 +19,14 @@
 /build
 /captures
 >>>>>>> 26a62d57da0ad05a8c1591a11c32cc2e633df3fd
+||||||| merged common ancestors
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+>>>>>>> 78f59c23d45f777e9c6ffcfac2d5e6906f2f1b39
